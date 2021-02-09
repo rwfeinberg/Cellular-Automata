@@ -1,0 +1,52 @@
+.root {
+  -fx-font-family: "sans-serif";
+  -fx-border-image-source: inherit;
+  -fx-background: pink;
+}
+
+#Info {
+  -fx-font-size: 20px;
+  -fx-text-fill: darkgreen;
+}
+
+#ControlPanel {
+  -fx-padding: 10 0 20 0;
+  -fx-spacing: 15;
+}
+
+#topBox {
+  -fx-alignment: top-center;
+  -fx-spacing: 35;
+}
+
+#bottomBox {
+  -fx-alignment: center;
+  -fx-spacing: 5;
+}
+
+.button {
+  -fx-border-radius: 20;
+  -fx-padding: 5 15 5 15;
+  -fx-background-color: blanchedalmond;
+  -fx-text-fill: darkgreen;
+}
+
+.combo-box-base {
+  -fx-text-base-color: darkgreen;
+  -fx-background-color: blanchedalmond;
+}
+
+
+#Speed {
+  -fx-padding: 0 0 0 10;
+}
+
+.slider {
+  -fx-show-tick-marks: true;
+  -fx-show-tick-labels: true;
+  -fx-snap-to-ticks: true;
+  -fx-block-increment: 1;
+  -fx-major-tick-unit: 1;
+  -fx-tick-label-fill: darkgreen;
+  -fx-tick-labels-visible: true;
+}

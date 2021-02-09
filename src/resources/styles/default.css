@@ -1,0 +1,50 @@
+.root {
+  -fx-font-family: "sans-serif";
+  -fx-border-image-source: inherit;
+  -fx-background: lightgray;
+}
+
+#Info {
+  -fx-font-size: 20px;
+  -fx-text-fill: black;
+}
+
+#ControlPanel {
+  -fx-padding: 10 0 20 0;
+  -fx-spacing: 15;
+}
+
+#topBox {
+  -fx-alignment: top-center;
+  -fx-spacing: 35;
+}
+
+#bottomBox {
+  -fx-alignment: center;
+  -fx-spacing: 5;
+}
+
+.button {
+  -fx-border-radius: 20;
+  -fx-padding: 5 15 5 15;
+  -fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+  -fx-text-fill: -fx-text-base-color;
+}
+
+.combo-box-base {
+  -fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+  -fx-text-base-color: black;
+
+}
+
+#Speed {
+  -fx-padding: 0 0 0 10;
+}
+
+.slider {
+  -fx-show-tick-marks: true;
+  -fx-show-tick-labels: true;
+  -fx-snap-to-ticks: true;
+  -fx-block-increment: 1;
+  -fx-major-tick-unit: 1;
+}
