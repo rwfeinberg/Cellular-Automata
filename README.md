@@ -15,9 +15,14 @@ Hours Spent: 120
 
 ### Pictures/Video
 
-![game1](https://user-images.githubusercontent.com/66392115/116020851-16160d00-a615-11eb-89cd-6b2481dee1eb.png)
+#### Main Screen:
+![mainscreen](https://user-images.githubusercontent.com/66392115/116021222-c5eb7a80-a615-11eb-8d5e-2e06194ab333.png)
 
-https://user-images.githubusercontent.com/66392115/116020862-19a99400-a615-11eb-9bc5-ab29a0ba6d5b.mp4
+#### Game of Life Demo:
+https://user-images.githubusercontent.com/66392115/116021397-1e227c80-a616-11eb-9098-26faad9ea4c7.mp4
+
+#### RPS Demo:
+https://user-images.githubusercontent.com/66392115/116021247-d0a60f80-a615-11eb-8e1d-6c9367a9ccfc.mp4
 
 
 ### Resources Used
