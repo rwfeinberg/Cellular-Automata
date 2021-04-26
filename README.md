@@ -13,13 +13,12 @@ Finish Date: 10/20/2020
 
 Hours Spent: 120
 
-### Primary Roles
+### Pictures/Video
 
-Ryan Feinberg: JavaFX Boilerplate, JavaFX UI (View implementation), Language SplashScreen, RPSCell Implementation
+![game1](https://user-images.githubusercontent.com/66392115/116020851-16160d00-a615-11eb-89cd-6b2481dee1eb.png)
 
-Muazzam Khan-Noorpuri: Model Setup(abstract Cell class, Grid etc.), GameOfLifeCell, Percolation Cell, SchellingCell, Graph Implementation (Simulation side)
+https://user-images.githubusercontent.com/66392115/116020862-19a99400-a615-11eb-9bc5-ab29a0ba6d5b.mp4
 
-Kenneth Marenco: Model Setup (Neighbor features of abstract Cell), FireCell and WaTorCell implementation, View Features (Grid view), 
 
 ### Resources Used
 
@@ -94,13 +93,3 @@ Known Bugs:
 
 Extra credit:
  * Styling of pages - 3 types of styles
-
-
-### Impressions
-
-Ryan: I think this was a solid assignment and helped me better understand user interaction. Although I think that the amount of features required for the project was excessive, it got the point where adding more features only made the code messier and more complicated, and didn't help me learn anything new (This was the most features I've seen on a GameOfLife simulator anywhere on the internet).
-
-Kenneth: I thought this was a very challenging yet insightful project. Towards the mid-late portion of the project window it became more and more clear where certain design principles became extremely important. I felt this project heavily involved putting new concepts to practice which was a hard but exciting experience. 
-
-Muazzam: I really enjoyed this project as it allowed me to really gain a better appreciation for the capabilities of JavaFX. Also, it allowed me to see the benefits of separating the model and the simulation while also implementing other key design principles like inheritance, open-closed etc.
-
